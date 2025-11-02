@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"scr_macros",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_macros",
+  "parent":{
+    "name":"FirstGame",
+    "path":"FirstGame.yyp",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
